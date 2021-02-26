@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-spanner/#history
 
+## [3.2.0](https://www.github.com/googleapis/python-spanner/compare/v3.1.0...v3.2.0) (2021-02-26)
+
+
+### Features
+
+* add sample for commit stats ([#241](https://www.github.com/googleapis/python-spanner/issues/241)) ([1343656](https://www.github.com/googleapis/python-spanner/commit/1343656ad43dbc41c119b652d8fe9360fa2b0e78))
+* add samples for PITR ([#222](https://www.github.com/googleapis/python-spanner/issues/222)) ([da146b7](https://www.github.com/googleapis/python-spanner/commit/da146b7a5d1d2ab6795c53301656d39e5594962f))
+
 ## [3.1.0](https://www.github.com/googleapis/python-spanner/compare/v3.0.0...v3.1.0) (2021-02-23)
 
 
